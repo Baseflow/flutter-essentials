@@ -13,6 +13,7 @@ dependencies:
   permission_handler: ">=2.0.0 <3.0.0"
   geolocator: ">=1.6.4 <2.0.0"
   google_api_availability: '^1.0.0'
+  contacts_plugin: '^0.0.1'
   
 dev_dependencies:
   flutter_test:
